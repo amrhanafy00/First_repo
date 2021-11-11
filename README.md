@@ -1,3 +1,3 @@
 # First_repo
 
-#2 Points to follow
+## Points to follow
